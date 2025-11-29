@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/3d0189c4-5cc9-4180-8da6-3dc803c8b916
 
 ## 5.a shooting game
 
-###rules
+### rules
 1.use your hand to move the player (circle)  
 2.if the opponent hits the player, it's game over  
 3.there are many types of opponents  
