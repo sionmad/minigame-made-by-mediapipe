@@ -6,8 +6,11 @@ STAGE_1 = {
     "offset": (50, 60),
     "layout": [
         "NNNNNNNNNN",
-        "NSHSRRSHSN",
-        "HHNSSRSSRR"
+        "HHHHHHHHHH",
+        "SSSSSSSSSS",
+        "RRRRRRRRRR",
+        "HHHHHHHHHH",
+        "NNNNNNNNNN"
         #You can create the layout of the stage using the following characters:
         #"N": Normal block
         #"H": Hard block

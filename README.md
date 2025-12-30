@@ -73,3 +73,13 @@ https://github.com/user-attachments/assets/3d0189c4-5cc9-4180-8da6-3dc803c8b916
 6.the opponent will get faster and faster  
 7.survive as long as you can  
 8.enjoy the game ;)  (well you can't shoot because of the bug though)   
+
+## 6.BREAKOUT game
+
+--
+
+### rules
+1.use your hand to move the paddle
+2.dont drop the ball
+3.break all the blocks
+4.press "r" to restart
