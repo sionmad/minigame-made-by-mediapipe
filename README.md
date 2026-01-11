@@ -1,5 +1,6 @@
 # minigame-made-by-mediapipe
 this is the demo version of minigame-made-by-mediapipe
+REVEAL.js
 
 --
 
@@ -7,7 +8,7 @@ this is the demo version of minigame-made-by-mediapipe
 
 ---
 
-https://github.com/user-attachments/assets/0ed4348d-f9a5-4bfe-85ad-a1f234b5351e
+<video controls src="readme video/511225248-0ed4348d-f9a5-4bfe-85ad-a1f234b5351e.mp4" title="handcheck"></video>
 
 --
 
@@ -15,7 +16,7 @@ https://github.com/user-attachments/assets/0ed4348d-f9a5-4bfe-85ad-a1f234b5351e
 
 ---
 
-https://github.com/user-attachments/assets/14b8e289-b275-4eed-97ae-95b90a055ba3
+<video controls src="readme video/511801128-14b8e289-b275-4eed-97ae-95b90a055ba3.mp4" title="recognise handsign"></video>
 
 --
 
@@ -25,24 +26,19 @@ https://github.com/user-attachments/assets/14b8e289-b275-4eed-97ae-95b90a055ba3
 
 before(no images)
 
-https://github.com/user-attachments/assets/67098399-3433-485b-a929-b4719aee45cb
+<video controls src="readme video/511801625-67098399-3433-485b-a929-b4719aee45cb.mp4" title="rockpaperscissors-noimages"></video>
+
 
 ---
 
 after(added images)
 
-https://github.com/user-attachments/assets/7d2f747c-0277-4080-ab7b-801304de2ca1
-
-
---
-
-
-## 4. make another minigame
-It's finaly finished!
+<video controls src="readme video/514694702-7d2f747c-0277-4080-ab7b-801304de2ca1.mp4" title="rockpaperscissors-added images"></video>
 
 --
 
-### hand avoid game  
+
+## 4. hand avoid game    
 
 --
 
@@ -55,8 +51,7 @@ It's finaly finished!
 
 ---
 
-https://github.com/user-attachments/assets/3d0189c4-5cc9-4180-8da6-3dc803c8b916
-
+<video controls src="readme video/517850174-3d0189c4-5cc9-4180-8da6-3dc803c8b916.mp4" title="handavoidgame"></video>
 
 --
 
@@ -73,6 +68,12 @@ https://github.com/user-attachments/assets/3d0189c4-5cc9-4180-8da6-3dc803c8b916
 6.the opponent will get faster and faster  
 7.survive as long as you can  
 8.enjoy the game ;)  (well you can't shoot because of the bug though)   
+
+---
+
+No video yet
+
+--
 
 ## 6.BREAKOUT game
 

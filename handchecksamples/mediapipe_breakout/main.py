@@ -84,7 +84,7 @@ def draw_gameover(frame):
                 1.0, (255, 255, 255), 2)
 
 def draw_clear(frame):
-    cv2.putText(frame, "GAME CLEAR!",
+    cv2.putText(frame, "GAME CLEAR!!!",
                 (WIDTH // 2 - 200, HEIGHT // 2),
                 cv2.FONT_HERSHEY_SIMPLEX,
                 2.0, (0, 255, 0), 5)
