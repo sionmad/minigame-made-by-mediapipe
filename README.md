@@ -1,6 +1,8 @@
 # minigame-made-by-mediapipe
 this is the demo version of minigame-made-by-mediapipe
-REVEAL.js
+made by sionmad
+
+you can useREVEAL.js
 
 --
 
@@ -69,9 +71,10 @@ after(added images)
 7.survive as long as you can  
 8.enjoy the game ;)  (well you can't shoot because of the bug though)   
 
----
+--
 
-No video yet
+### No video yet
+please wait
 
 --
 
@@ -84,3 +87,15 @@ No video yet
 2.dont drop the ball
 3.break all the blocks
 4.press "r" to restart
+
+--
+
+### No video yet
+please wait
+
+--
+
+### API
+There is a levelmaker
+You can change the "block_size" "padding" "offset" "layout"
+please check stages.py
