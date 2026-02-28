@@ -78,7 +78,7 @@ please wait
 
 --
 
-## 6.BREAKOUT game
+## 6.MEDIAPIPE BREAKOUT
 
 --
 
