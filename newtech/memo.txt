@@ -1,0 +1,13 @@
+cd /c/minigame-made-by-mediapipe
+
+py -3.11 -m pip install mediapipe opencv-python numpy minecraft-remote-api
+
+export MC_REMOTE_HOST='mc-remote.xgames.jp'
+export MC_REMOTE_PORT='25575'
+export MC_REMOTE_PLAYER_NAME='Lovin_Han'
+export MC_REMOTE_ORIGIN_X='2000'
+export MC_REMOTE_ORIGIN_Y='100'
+export MC_REMOTE_ORIGIN_Z='2000'
+export MC_REMOTE_BLOCK='lime_concrete'
+
+py -3.11 newtech/realtime_scan_minecraft.py
