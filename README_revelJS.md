@@ -25,6 +25,11 @@ Breakout Gameとは、日本では一般的に「ブロックくずし」と呼�
 
 <video controls src="readme video/画面録画 2026-02-28 222350.mp4" title="プレイ動画"></video>
 
+
+https://github.com/user-attachments/assets/9351c301-bb84-4cca-a9fa-f377a16201c7
+
+
+
 ---
 
 ## カスタマイズ（API）
@@ -51,5 +56,6 @@ Breakout Gameとは、日本では一般的に「ブロックくずし」と呼�
 - 他にもいろいろな機能を追加する予定です。
 
 ---
+
 
 # Fin.
